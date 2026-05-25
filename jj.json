@@ -23,20 +23,50 @@
             "filterable": 1
         },
         {
-            "key": "csp_CaoLiu",
-            "name": "CaoLiu┃SP",
+            "key": "csp_DaGongRen",
+            "name": "DaGongRen┃SP",
             "type": 3,
-            "api": "csp_CaoLiu",
+            "api": "csp_DaGongRen",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
             "filterable": 1
         },
         {
-            "key": "csp_Cg51",
-            "name": "Cg51┃SP",
+            "key": "csp_Dm84",
+            "name": "Dm84┃SP",
             "type": 3,
-            "api": "csp_Cg51",
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": "2",
+            "filterable": 1
+        },
+        {
+            "key": "csp_Doll",
+            "name": "Doll┃SP",
+            "type": 3,
+            "api": "csp_Doll",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": "2",
+            "filterable": 1
+        },
+        {
+            "key": "csp_Eighteen",
+            "name": "Eighteen┃SP",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": "2",
+            "filterable": 1
+        },
+        {
+            "key": "csp_Hanime",
+            "name": "Hanime┃SP",
+            "type": 3,
+            "api": "csp_Hanime",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
