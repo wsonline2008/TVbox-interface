@@ -23,20 +23,20 @@
             "filterable": 1
         },
         {
-            "key": "csp_ROU223",
-            "name": "ROU223┃SP",
+            "key": "csp_CaoLiu",
+            "name": "CaoLiu┃SP",
             "type": 3,
-            "api": "csp_ROU223",
+            "api": "csp_CaoLiu",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
             "filterable": 1
         },
         {
-            "key": "csp_RouVideo",
-            "name": "RouVideo┃SP",
+            "key": "csp_Cg51",
+            "name": "Cg51┃SP",
             "type": 3,
-            "api": "csp_RouVideo",
+            "api": "csp_Cg51",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
