@@ -41,15 +41,6 @@
             "filterable": 1
         },
         {
-            "key": "丝袜",
-            "name": "🚀丝袜",
-            "type": 1,
-            "api": "https://www.siwazyw.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "深林",
             "name": "🚀深林",
             "type": 1,
@@ -84,51 +75,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "优异",
-            "name": "🚀优异",
-            "type": 1,
-            "api": "https://a.uezy.pw/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "色逼",
-            "name": "🚀色逼",
-            "type": 1,
-            "api": "https://a.uezy.pw/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "💞色猫资源💞",
-            "name": "💞色猫资源💞",
-            "type": 1,
-            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "🚀橘猫",
-            "name": "🚀橘猫",
-            "type": 1,
-            "api": "https://to.to-long.com/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "🈶色南国",
-            "name": "🈶色南国",
-            "type": 1,
-            "api": "http://api.sexnguon.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key": "Ckzy",
@@ -274,44 +220,6 @@
             ]
         },
         {
-            "key": "色猫",
-            "name": "🚀色猫",
-            "type": 1,
-            "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "国产自拍",
-                "日本无码",
-                "日本有码",
-                "中文字幕",
-                "欧美精品",
-                "成人动漫",
-                "日本素人",
-                "高清名优",
-                "三级伦理",
-                "网红主播",
-                "映画传媒",
-                "人妻熟女",
-                "口爆颜射",
-                "萝莉少女",
-                "SM调教",
-                "美乳巨乳",
-                "短视频",
-                "制服诱惑",
-                "女同性爱",
-                "AI换脸",
-                "多人群交",
-                "翹臀美尻",
-                "丝袜美腿",
-                "精选独家",
-                "貧乳小奶",
-                "探花系列"
-            ]
-        },
-        {
             "key": "番外",
             "name": "🚀番外",
             "type": 1,
@@ -376,6 +284,15 @@
             ]
         },
         {
+            "key": "(18+)大地资源",
+            "name": "🚀大地资源",
+            "type": 0,
+            "api": "https://dadiapi.com/api.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "新片热播6",
             "name": "🔷小丝袜",
             "type": 1,
@@ -403,10 +320,93 @@
             "filterable": 0
         },
         {
-            "key": "(18+)大地资源",
-            "name": "🚀大地资源",
-            "type": 0,
-            "api": "https://dadiapi.com/api.php",
+            "key": "丝袜",
+            "name": "🚀丝袜",
+            "type": 1,
+            "api": "https://www.siwazyw.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "优异",
+            "name": "🚀优异",
+            "type": 1,
+            "api": "https://a.uezy.pw/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "色逼",
+            "name": "🚀色逼",
+            "type": 1,
+            "api": "https://a.uezy.pw/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "💞色猫资源💞",
+            "name": "💞色猫资源💞",
+            "type": 1,
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "🚀橘猫",
+            "name": "🚀橘猫",
+            "type": 1,
+            "api": "https://to.to-long.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "色猫",
+            "name": "🚀色猫",
+            "type": 1,
+            "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产自拍",
+                "日本无码",
+                "日本有码",
+                "中文字幕",
+                "欧美精品",
+                "成人动漫",
+                "日本素人",
+                "高清名优",
+                "三级伦理",
+                "网红主播",
+                "映画传媒",
+                "人妻熟女",
+                "口爆颜射",
+                "萝莉少女",
+                "SM调教",
+                "美乳巨乳",
+                "短视频",
+                "制服诱惑",
+                "女同性爱",
+                "AI换脸",
+                "多人群交",
+                "翹臀美尻",
+                "丝袜美腿",
+                "精选独家",
+                "貧乳小奶",
+                "探花系列"
+            ]
+        },
+        {
+            "key": "🈶色南国",
+            "name": "🈶色南国",
+            "type": 1,
+            "api": "http://api.sexnguon.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -495,4 +495,3 @@
         }
     ]
 }
-
