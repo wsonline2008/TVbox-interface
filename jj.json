@@ -23,20 +23,20 @@
             "filterable": 1
         },
         {
-            "key": "csp_Wogg",
-            "name": "Wogg┃SP",
+            "key": "csp_Yingshiche",
+            "name": "Yingshiche┃SP",
             "type": 3,
-            "api": "csp_Wogg",
+            "api": "csp_Yingshiche",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
             "filterable": 1
         },
         {
-            "key": "csp_WWRR",
-            "name": "WWRR┃SP",
+            "key": "csp_YingTan",
+            "name": "YingTan┃SP",
             "type": 3,
-            "api": "csp_WWRR",
+            "api": "csp_YingTan",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
@@ -53,20 +53,20 @@
             "filterable": 1
         },
         {
-            "key": "csp_XVideos",
-            "name": "XVideos┃SP",
+            "key": "csp_Ysj",
+            "name": "Ysj┃SP",
             "type": 3,
-            "api": "csp_XVideos",
+            "api": "csp_Ysj",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
             "filterable": 1
         },
         {
-            "key": "csp_Ying",
-            "name": "Ying┃SP",
+            "key": "csp_Zhaozy",
+            "name": "Zhaozy┃SP",
             "type": 3,
-            "api": "csp_Ying",
+            "api": "csp_Zhaozy",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
