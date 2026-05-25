@@ -23,66 +23,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Yingshiche",
-            "name": "Yingshiche┃SP",
-            "type": 3,
-            "api": "csp_Yingshiche",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "filterable": 1
-        },
-        {
-            "key": "csp_YingTan",
-            "name": "YingTan┃SP",
-            "type": 3,
-            "api": "csp_YingTan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "filterable": 1
-        },
-        {
-            "key": "csp_Xb6v",
-            "name": "Xb6v┃SP",
-            "type": 3,
-            "api": "csp_Xb6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "filterable": 1
-        },
-        {
-            "key": "csp_Ysj",
-            "name": "Ysj┃SP",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "filterable": 1
-        },
-        {
-            "key": "csp_Zhaozy",
-            "name": "Zhaozy┃SP",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "filterable": 1
-        },
-        {
-            "key": "csp_MGTV",
-            "name": "MGTV┃SP",
-            "type": 3,
-            "api": "csp_MGTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "filterable": 1
-        },
-        {
             "key": "精东",
             "name": "🚀精东",
             "type": 1,
