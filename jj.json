@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/wgq332/tvt/raw/master/fongmi/custom_spiderh.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
+    "spider": "./DIYP/custom_spiderh.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
     "lives": [
         {
             "name": "直播",
@@ -13,14 +13,7 @@
     ],
     "sites": [
         {
-            "key": "csp_XMVideo",
-            "name": "🚀XMVideo┃SP",
-            "type": 3,
-            "api": "csp_XMVideo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "filterable": 1
+            "key": "csp_XMVideo","name": "🚀XMVideo┃SP","type": 3,"api": "csp_XMVideo","searchable": 1,"quickSearch": 1,"playerType": "2","filterable": 1
         },
 { "key": "鸡坤资源", "name": "鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 {"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
@@ -59,6 +52,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+            "categories": [
+                "精品国产","精品日韩","精品综合","精品小说","精品美图","国产自拍","主播诱惑","探花约炮","偷拍偷窥","网曝吃瓜","抖阴短片","传媒剧情","日韩主播","日韩无码","中文字幕","AV解说","换脸明星","强奸乱伦","女优明星","欧美激情","重口激情","三级伦理","剧情动漫","SM调教","女同性恋","VR视角","都市言情","暴力侵犯","家庭伦伦","性感身体","角色扮演","福利姬","漫画连载"
+            ]
         },
         {
             "key": "深林",
@@ -115,46 +111,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
-                "精品推荐",
-                "国产精品",
-                "主播秀色",
-                "日本有码",
-                "日本无码",
-                "中文字幕",
-                "童颜巨乳",
-                "性感人妻",
-                "强奸乱伦",
-                "欧美情色",
-                "童真萝莉",
-                "三级伦理",
-                "卡通动漫",
-                "丝袜OL",
-                "口爆颜射",
-                "自拍偷拍",
-                "日本片商",
-                "Cosplay",
-                "素人自拍",
-                "台湾色情",
-                "韩国自拍",
-                "性感港姐",
-                "东南亚情色",
-                "凌辱束缚",
-                "剧情介绍",
-                "多P 3P",
-                "91系列",
-                "网红系列",
-                "野外系列",
-                "女仆系列",
-                "学生中出",
-                "性感旗袍",
-                "兽耳作品",
-                "瑜伽裤",
-                "骚货护士",
-                "及膝袜",
-                "网曝系列",
-                "麻豆传媒",
-                "女同人妖",
-                "恋腿癖"
+                "精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P 3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"
             ]
         },
         {
