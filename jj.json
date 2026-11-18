@@ -15,6 +15,12 @@
         {
             "key": "csp_XMVideo","name": "🚀XMVideo┃SP","type": 3,"api": "csp_XMVideo","searchable": 1,"quickSearch": 1,"playerType": "2","filterable": 1
         },
+        {
+            "key": "csp_Eighteen","name": "🚀18┃SP","type": 3,"api": "csp_Eighteen","searchable": 1,"quickSearch": 1,"playerType": "2","filterable": 1
+        },
+        {
+            "key": "csp_Fpie2","name": "🚀水果派┃SP","type": 3,"api": "csp_Fpie2","searchable": 1,"quickSearch": 1,"playerType": "2","filterable": 1
+        },
 { "key": "鸡坤资源", "name": "鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 {"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
 {"key": "玉兔资源","name": "玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 0,"quickSearch": 0, "filterable": 0 }, 
@@ -31,27 +37,21 @@
             "name": "🚀精东",
             "type": 1,
             "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "searchable": 1,"quickSearch": 1,"filterable": 1
         },
         {
             "key": "淫水机资源js",
             "name": "淫水机资源js",
             "type": 1,
             "api": "https://www.xrbsp.com/api/json.php?pg=2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "searchable": 1,"quickSearch": 1,"filterable": 1
         },
         {
             "key": "奶香",
             "name": "🚀奶香",
             "type": 1,
             "api": "https://naixxzy.com/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,
             "categories": [
                 "精品国产","精品日韩","精品综合","精品小说","精品美图","国产自拍","主播诱惑","探花约炮","偷拍偷窥","网曝吃瓜","抖阴短片","传媒剧情","日韩主播","日韩无码","中文字幕","AV解说","换脸明星","强奸乱伦","女优明星","欧美激情","重口激情","三级伦理","剧情动漫","SM调教","女同性恋","VR视角","都市言情","暴力侵犯","家庭伦伦","性感身体","角色扮演","福利姬","漫画连载"
             ]
@@ -61,55 +61,42 @@
             "name": "🚀深林",
             "type": 1,
             "api": "https://slapibf.com/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "searchable": 1,"quickSearch": 1,"filterable": 1
         },
         {
             "key": "玉兔",
             "name": "🚀玉兔",
             "type": 1,
             "api": "https://apiyutu.com/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "searchable": 1,"quickSearch": 1,"filterable": 1
         },
         {
             "key": "8天",
             "name": "🚀8天",
             "type": 1,
             "api": "https://8day.icu/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "searchable": 1,"quickSearch": 1,"filterable": 1
         },
         {
             "key": "湿园",
             "name": "🚀湿园",
             "type": 1,
             "api": "https://xxavs.com/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "searchable": 1,"quickSearch": 1,"filterable": 1
         },
         {
             "key": "Ckzy",
             "name": "Ck资源",
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
+            "searchable": 1,"quickSearch": 1,"filterable": 0
         },
         {
             "key": "玉兔专场",
             "name": "🚀玉兔",
             "type": 1,
             "api": "https://apiyutu.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,
             "categories": [
                 "精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P 3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"
             ]
@@ -119,53 +106,9 @@
             "name": "🚀森林1",
             "type": 1,
             "api": "https://slapibf.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,
             "categories": [
-                "精品推荐",
-                "国产色情",
-                "主播直播",
-                "亚洲无码",
-                "亚洲有码",
-                "中文字幕",
-                "巨乳美乳",
-                "人妻熟女",
-                "强奸乱伦",
-                "欧美精品",
-                "萝莉少女",
-                "伦理三级",
-                "成人动漫",
-                "自拍偷拍",
-                "制服丝袜",
-                "口交颜射",
-                "日本精品",
-                "Cosplay",
-                "素人自拍",
-                "台湾辣妹",
-                "韩国御姐",
-                "唯美港姐",
-                "东南亚AV",
-                "欺辱凌辱",
-                "剧情介绍",
-                "多人多P",
-                "91探花",
-                "网红流出",
-                "野外露出",
-                "古装扮演",
-                "女优系列",
-                "可爱学生",
-                "风情旗袍",
-                "兽耳系列",
-                "瑜伽裤",
-                "闷骚护士",
-                "过膝袜",
-                "网曝门",
-                "传媒出品",
-                "女同性恋",
-                "男同性恋",
-                "恋腿狂魔"
+                "精品推荐","国产色情","主播直播","亚洲无码","亚洲有码","中文字幕","巨乳美乳","人妻熟女","强奸乱伦","欧美精品","萝莉少女","伦理三级","成人动漫","自拍偷拍","制服丝袜","口交颜射","日本精品","Cosplay","素人自拍","台湾辣妹","韩国御姐","唯美港姐","东南亚AV","欺辱凌辱","剧情介绍","多人多P","91探花","网红流出","野外露出","古装扮演","女优系列","可爱学生","风情旗袍","兽耳系列","瑜伽裤","闷骚护士","过膝袜","网曝门","传媒出品","女同性恋","男同性恋","恋腿狂魔"
             ]
         },
         {
